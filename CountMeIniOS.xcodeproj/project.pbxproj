@@ -66,9 +66,10 @@
 			children = (
 				DAA84CF12B8760CE00A4418E /* Info.plist */,
 				DAA84CFD2B876B3900A4418E /* Main */,
-				DAA84CFC2B876B2900A4418E /* Lunch */,
 				DAA84CFB2B876B2700A4418E /* Login */,
+				DAA84D0A2B876CAC00A4418E /* Home */,
 				DAA84CFA2B876B2200A4418E /* Parking */,
+				DAA84CFC2B876B2900A4418E /* Lunch */,
 			);
 			path = CountMeIniOS;
 			sourceTree = "<group>";
@@ -109,7 +110,6 @@
 				DAA84CEC2B8760CE00A4418E /* Assets.xcassets */,
 				DAA84CEE2B8760CE00A4418E /* LaunchScreen.storyboard */,
 				DAA84CF82B876AA600A4418E /* inbox.md */,
-				DAA84CE72B8760CD00A4418E /* HomeViewController.swift */,
 			);
 			path = Main;
 			sourceTree = "<group>";
@@ -157,6 +157,14 @@
 			children = (
 			);
 			path = View;
+			sourceTree = "<group>";
+		};
+		DAA84D0A2B876CAC00A4418E /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				DAA84CE72B8760CD00A4418E /* HomeViewController.swift */,
+			);
+			path = Home;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
