@@ -162,9 +162,17 @@
 		DAA84D0A2B876CAC00A4418E /* Home */ = {
 			isa = PBXGroup;
 			children = (
-				DAA84CE72B8760CD00A4418E /* HomeViewController.swift */,
+				DAA84D0B2B876CD400A4418E /* Controller */,
 			);
 			path = Home;
+			sourceTree = "<group>";
+		};
+		DAA84D0B2B876CD400A4418E /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				DAA84CE72B8760CD00A4418E /* HomeViewController.swift */,
+			);
+			path = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
