@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "ycoreui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/codeandtheory/YCoreUI",
+      "state" : {
+        "revision" : "38f2a285e43c044c2693a5a21e958b4b78c81492",
+        "version" : "1.7.0"
+      }
+    },
+    {
+      "identity" : "ymattertype",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/codeandtheory/YMatterType",
+      "state" : {
+        "revision" : "3a9f8dd625ecfde9f9cb2c2e236b102fda148e95",
+        "version" : "1.7.0"
+      }
+    }
+  ],
+  "version" : 2
+}

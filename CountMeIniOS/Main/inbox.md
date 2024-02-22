@@ -12,3 +12,14 @@
     // - booked lunch view
 // Profile
     // -- ??
+
+
+Questions 
+
+- Assets?
+- Font?
+- Figma?
+- Login screen?
+- Profile screen?
+- Log out?
+
