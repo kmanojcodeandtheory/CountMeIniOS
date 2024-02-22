@@ -13,6 +13,7 @@
 		DAA84CEB2B8760CD00A4418E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DAA84CE92B8760CD00A4418E /* Main.storyboard */; };
 		DAA84CED2B8760CE00A4418E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DAA84CEC2B8760CE00A4418E /* Assets.xcassets */; };
 		DAA84CF02B8760CE00A4418E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DAA84CEE2B8760CE00A4418E /* LaunchScreen.storyboard */; };
+		DAA84CF92B876AA600A4418E /* inbox.md in Resources */ = {isa = PBXBuildFile; fileRef = DAA84CF82B876AA600A4418E /* inbox.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DAA84CEC2B8760CE00A4418E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DAA84CEF2B8760CE00A4418E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DAA84CF12B8760CE00A4418E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DAA84CF82B876AA600A4418E /* inbox.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = inbox.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				DAA84CEC2B8760CE00A4418E /* Assets.xcassets */,
 				DAA84CEE2B8760CE00A4418E /* LaunchScreen.storyboard */,
 				DAA84CF12B8760CE00A4418E /* Info.plist */,
+				DAA84CF82B876AA600A4418E /* inbox.md */,
 			);
 			path = CountMeIniOS;
 			sourceTree = "<group>";
@@ -128,6 +131,7 @@
 				DAA84CF02B8760CE00A4418E /* LaunchScreen.storyboard in Resources */,
 				DAA84CED2B8760CE00A4418E /* Assets.xcassets in Resources */,
 				DAA84CEB2B8760CD00A4418E /* Main.storyboard in Resources */,
+				DAA84CF92B876AA600A4418E /* inbox.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
